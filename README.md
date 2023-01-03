@@ -1,2 +1,2 @@
-# Sky
-Fly's wide sky
+# nextjs-blog
+This is a personal blog page created using next.js technology
